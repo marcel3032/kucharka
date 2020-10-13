@@ -1,0 +1,78 @@
+\documentclass[a4paper,12pt]{article}
+\input{reglages/reglage}
+\Style{2}
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+}
+
+\titleformat{\section}[block]{\Huge\bfseries\filcenter}{}{1em}{}
+\titleformat{\subsection}[hang]{\Large\bfseries\filcenter}{}{1em}{}
+
+\begin{document}
+\renewcommand{\contentsname}{Obsah}
+\tableofcontents
+\newpage
+\clearpage
+
+%%%%%%% Jedna cast
+\vspace*{10cm}
+\section{Sladké jedlá}
+\newpage
+\clearpage
+
+\input{recipes/brownies}
+\input{recipes/cheescake}
+\input{recipes/daim}
+\input{recipes/donuts}
+\input{recipes/fondan}
+\input{recipes/kavove_kekse}
+\input{recipes/palacinky}
+\input{recipes/veterniky}
+\input{recipes/wafle}
+\input{recipes/eh_torta}
+\input{recipes/parene_buchty}
+
+
+
+%%%%%%% Jedna cast
+\vspace*{10cm}
+\section{Slané jedlá}
+\newpage
+\clearpage
+
+\input{recipes/dzadky}
+\input{recipes/kapustnica}
+\input{recipes/lokse}
+\input{recipes/obratene_rezne}
+\input{recipes/pirohy}
+\input{recipes/lasagne}
+\input{recipes/cestoviny}
+\input{recipes/maso_bylinkove_maslo}
+\input{recipes/maso_ubo}
+
+
+%%%%%%% Jedna cast
+\vspace*{10cm}
+\section{Polievky}
+\newpage
+\clearpage
+
+\input{recipes/basic_polievka}
+\input{recipes/kapustnica}
+\input{recipes/hraskova}
+\input{recipes/fazulova}
+
+
+%%%%%%% Jedna cast
+\vspace*{10cm}
+\section{Template}
+\newpage
+\clearpage
+
+\input{recipes/00_template}
+\end{document}
