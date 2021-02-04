@@ -5,7 +5,7 @@
 \newcommand{\CookingTempe}[1]{\def\@CookingTempe{#1}}
 \newcommand{\TypeCooking}[1]{\def\@TypeCooking{#1}}
 \newcommand{\NbPerson}[1]{\def\@NbPerson{#1\xspace}}
-\newcommand{\Image}[2]{\def\@ImageDim{#1} \def\@ImagePath{#2}}
+\newcommand{\Image}[2]{\def\@ImageDim{#1} \def \@ImagePath{#2}}
 %\newcommand{\Style}[1]{\def\@Style{#1}}
 \def\maketitle{%
 
@@ -17,7 +17,7 @@
 
 \newenvironment{ingredient}
   {\noindent\begin{minipage}[t]{0.35\linewidth}
-  \noindent\begingroup\edef\x{\endgroup\noexpand\includegraphics[height=5.5cm,viewport=\@ImageDim]{\@ImagePath}}\x
+  \noindent\begingroup\edef\x{\endgroup\noexpand\includegraphics[height=5.5cm,viewport=\@ImageDim]{docs/\@ImagePath}}\x
   
   \def\FrameCommand{\fboxsep=\FrameSep\fcolorbox{black}{white}}%
   \MakeFramed {\advance\hsize-\width \FrameRestore}\begin{footnotesize}\noindent\underline{\textbf{{\normalsize Ingredients (\@NbPerson persons):}}}}
