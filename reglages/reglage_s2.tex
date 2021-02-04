@@ -17,7 +17,7 @@
 
 \newenvironment{ingredient}
   {\noindent\begin{minipage}[t]{0.35\linewidth}
-  \noindent\begingroup\edef\x{\endgroup\noexpand\includegraphics[height=5.5cm,viewport=\@ImageDim]{docs/\@ImagePath}}\x
+  \noindent\begingroup\edef\x{\endgroup\noexpand\includegraphics[height=5.5cm,viewport=\@ImageDim]{\@ImagePath}}\x
   
   \def\FrameCommand{\fboxsep=\FrameSep\fcolorbox{black}{white}}%
   \MakeFramed {\advance\hsize-\width \FrameRestore}\begin{footnotesize}\noindent\underline{\textbf{{\normalsize Ingredients (\@NbPerson persons):}}}}
