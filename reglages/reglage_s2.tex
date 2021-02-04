@@ -23,30 +23,11 @@
   \MakeFramed {\advance\hsize-\width \FrameRestore}\begin{footnotesize}\noindent\underline{\textbf{{\normalsize Ingredients (\@NbPerson persons):}}}}
   {\end{footnotesize}\endMakeFramed
   
-\noindent Preparation time: \begin{tikzpicture}
-    \pgfmathsetmacro{\timeor}{\PrepTimeb}
-    \ifthenelse{\timeor>60}{
-    \pgfmathsetmacro{\timeorb}{90-(\PrepTimeb-60)/60*360}
-    \fill[orange] (0,0.55) arc(90:-270:0.55)      -- ++(-270:-0.55)
-    arc(-270:0:0)    -- cycle;
-    \fill[green] (0,0.55) arc(90:\timeorb:0.55)      -- ++(\timeorb:-0.55)
-    arc(\timeorb:0:0)    -- cycle;
-    }{
-    \pgfmathsetmacro{\timeorb}{90-(\PrepTimeb)/60*360}
-    \fill[orange] (0,0.55) arc(90:\timeorb:0.55)      -- ++(\timeorb:-0.55)
-    arc(\timeorb:0:0)    -- cycle;
-    }
-    \node[fill=white,inner sep=0pt] at (0,0) {{\tiny \PrepTimeb~min}};
-    \fill[black!50,even odd rule] (0,0) circle(0.65) circle(0.6);
-    \fill[black!50,even odd rule] (0,0.5) circle(0.05);
-    \fill[black!50,even odd rule] (0.5,0) circle(0.05);
-    \fill[black!50,even odd rule] (0,-0.5) circle(0.05);
-    \fill[black!50,even odd rule] (-0.5,0) circle(0.05);
-    \end{tikzpicture}
+\noindent 
+    \noindent\vspace{0.5cm} Preparation time: \@PrepTime min
     
-    \noindent\vspace{0.5cm} Cooking: \@CookingTime min -- \@CookingTempe°
+	\noindent\vspace{0.5cm} Cooking: \@CookingTime min -- \@CookingTempe°
     
-    \noindent\vspace{0.5cm} Type of cooking: \@TypeCooking
     \end{minipage}\hspace{0.02\linewidth}}
 
 
