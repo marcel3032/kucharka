@@ -1,0 +1,33 @@
+\setcounter{step}{0}
+%------------------------------------------
+% information doc
+\subsection{Dukátové buchtičky}
+\PrepTime{5}
+\CookingTime{10}
+\CookingTempe{180}
+\TypeCooking{Plaque}
+\NbPerson{2}
+\Image{0 0 430 430}{images/dukatky} %style 2
+%------------------------------------------
+
+\begin{ingredient}
+%\vspace{0.5cm}
+\begin{main}
+	\item 1 vianočka
+	\item 1 vanilkový puding / zlatý klas
+	\item 0.5 litra mlieko
+	\item 2 PL cukru
+\end{main}
+\end{ingredient}%no space with \begin{recipe}
+\begin{recipe}
+
+
+
+\step Vianočku pokrájame na kúsky.
+\step Uvaríme vanilkový puding a zalejeme ním vianočku.
+
+\end{recipe}
+
+\begin{notes}
+
+\end{notes}	
