@@ -7,4 +7,5 @@ Simple tex template for cooking recipes
 - add `recipe_name.tex` to `/recipes`
 - add recipe to `main.tex`
 - build pdf
-- build html e.g. (`htlatex main.tex "xhtml,html5,index=3`)
+- build html e.g. (`htlatex main.tex "xhtml,html5,index=3,charset=utf-8" " -cunihtf -utf8"`)
+
