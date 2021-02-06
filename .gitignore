@@ -8,3 +8,6 @@ main.log
 main.pdf
 main.tmp
 main.xref
+main.out
+main.toc
+texput.log
