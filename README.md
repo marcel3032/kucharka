@@ -10,5 +10,5 @@ Simple tex template for cooking recipes
 	- `make.bat` on Windows
 	- or build manually:
 		- build pdf e.g. (`pdfLaTeX main.tex`)
-		- build html e.g. (`htlatex main.tex "xhtml,html5,index=3,charset=utf-8" " -cunihtf -utf8"`)
+		- build html e.g. (`pandoc main.tex -s --toc -t html -o main.html --metadata title="Kuchárka"`)
 
