@@ -11,7 +11,10 @@
 %------------------------------------------
 
 \begin{ingredient}
-%\vspace{0.5cm}
+%\includegraphics[height=5.5cm]{images/daim}
+\def\portions{4}%
+\include{ingredients}
+
 \begin{main}
 	\item 250g horká čokoláda
 	\item 250g maslo
@@ -24,16 +27,20 @@
 	\item 1 vanilkový cukor
 	\item 300g kryštálový cukor
 \end{main}
-\end{ingredient}%no space with \begin{recipe}
+\end{ingredient}
 \begin{recipe}
+\input{preparation}
+\begin{enumerate}
 
-\step{Čokoládu a maslo rozpustíme vo vodnom kúpeli}
-\step{Pridáme múku a prášok do pečiva}
-\step{Pridáme cukor, vajíčka, vanilkový cukor, orechy, pokrájanú čokoládu}	
-\step{Pečieme 40 minút}
+\item{Čokoládu a maslo rozpustíme vo vodnom kúpeli}
+\item{Pridáme múku a prášok do pečiva}
+\item{Pridáme cukor, vajíčka, vanilkový cukor, orechy, pokrájanú čokoládu}	
+\item{Pečieme 40 minút na 175°}
 
+\end{enumerate}
 \end{recipe}
 
 \begin{notes}
 
-\end{notes}	
+\end{notes}
+\clearpage	

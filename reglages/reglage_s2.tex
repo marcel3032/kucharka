@@ -7,7 +7,7 @@
 \newcommand{\NbPerson}[1]{\def\@NbPerson{#1\xspace}}
 \newcommand{\Image}[2]{\def\@ImageDim{#1} \def \@ImagePath{#2}}
 %\newcommand{\Style}[1]{\def\@Style{#1}}
-\def\maketitle{%
+\def\maketitle{
 
 \vspace{0cm}
 \begin{center}
@@ -17,16 +17,12 @@
 
 \newenvironment{ingredient}
   {\noindent\begin{minipage}[t]{0.35\linewidth}
-  \noindent\begingroup\edef\x{\endgroup\noexpand\includegraphics[height=5.5cm,viewport=\@ImageDim]{\@ImagePath}}\x
-  
+	
+	%\includegraphics[height=5.5cm]{\@ImagePath}
+	
   \def\FrameCommand{\fboxsep=\FrameSep\fcolorbox{black}{white}}%
-  \MakeFramed {\advance\hsize-\width \FrameRestore}\begin{footnotesize}\noindent\underline{\textbf{{\normalsize Ingredients (\@NbPerson persons):}}}}
+  \MakeFramed {\advance\hsize-\width \FrameRestore}\begin{footnotesize}\noindent\underline{}}
   {\end{footnotesize}\endMakeFramed
-  
-\noindent 
-    \noindent\vspace{0.5cm} Preparation time: \@PrepTime min
-    
-	\noindent\vspace{0.5cm} Cooking: \@CookingTime min -- \@CookingTempe°
     
     \end{minipage}\hspace{0.02\linewidth}}
 
@@ -44,7 +40,7 @@
 
 \newenvironment{recipe}
 {\begin{minipage}[t]{0.62\linewidth}
-\vspace{-5cm}
+%\vspace{-5cm}
 %\maketitle
 }
 {\end{minipage}}
