@@ -1,0 +1,55 @@
+\setcounter{step}{0}
+
+\subsection{ {{ name }} }
+
+\begin{ingredient}
+  {% if photo %}
+      \includegraphics[height= {{- photo.height -}} ]{ {{- photo.path -}} }
+  {% endif %}
+  \def\portions{  }
+  \textbf{ {\normalsize Ingrediencie ({{- portions -}}  porcie):} }
+
+  \begin{main}
+    {%- for ingredient in ingredients.main %}
+      \item {{ ingredient }}
+    {%- endfor %}
+  \end{main}
+  {% for name in ingredients.other %}
+    \begin{subingredient}{
+{{- name -}}
+}
+      {%- for ingredient in ingredients.other[name] %}
+        \item {{ ingredient }}
+      {%- endfor %}
+    \end{subingredient}
+  {% endfor %}
+\end{ingredient}
+\begin{recipe}
+\textbf{ {\normalsize Príprava:} }
+\begin{enumerate}
+{% for step in preparation %}
+  {% if step is mapping %}
+    {%- for name, substeps in step.items() -%}
+      \item{ {{- name -}}: }
+      \begin{enumerate}
+        {%- for substep in substeps %}
+          \item{ {{- substep -}} }
+        {%- endfor -%}
+      
+      \end{enumerate}
+    
+    {%- endfor -%}
+  {%- else -%}
+    \item{
+          {{- step -}}
+         }
+  {%- endif -%}
+{%- endfor %}
+
+\end{enumerate}
+\end{recipe}
+
+\begin{notes}
+  {{ notes }}
+\end{notes}	
+\clearpage

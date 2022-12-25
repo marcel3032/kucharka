@@ -1,0 +1,30 @@
+name: Basic polievka
+photo: 
+  path: images/cestoviny
+  height: 5.5cm
+portions: 4
+ingredients: 
+  main:
+    - 4 cà.S de sucre en poudre
+    - 1 cà.S de crème liquide
+    - 1 cà.S de miel
+    - 1 grosse noix de beurre
+  other:
+      poleva:
+        - nieco
+        - nieco iné
+      dalsia vec:
+        - aaa
+        - bb
+preparation:
+  - urobime nieco
+  - potom nieco ine
+  - a este daco
+  - tato vec ma viac krokov:
+    - lebo urobime toto
+    - a toto
+  - tato vec ma TIEZ viac krokov:
+    - lebo urobime toto
+    - a toto
+  - a tiez toto
+notes: Bla bla, nieco, poznamka
