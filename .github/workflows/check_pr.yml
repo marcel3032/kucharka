@@ -1,0 +1,50 @@
+name: Build .pdf and .html and NOT push it. Just for PR check.
+
+on: [pull_request]
+
+permissions:
+  contents: write
+
+jobs:
+  gh-pages:
+    name: Deploy to Github pages
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Check and build tex recipes
+        run: |
+          cd input_recipes
+          python build_and_check_recipes.py
+          
+      - name: Build main.pdf
+        uses: xu-cheng/texlive-action/full@v1
+        with:
+          run: |
+            mkdir build
+            latexmk -pdf -jobname=./build/main main.tex
+            latexmk -pdf -jobname=./build/main main.tex
+          
+      - name: Build main.html
+        uses: docker://pandoc/core:2.9
+        with:
+          args: >-  # allows you to break string into multiple lines
+            -s 
+            --toc 
+            -t html 
+            -o build/index.html 
+            --metadata title="Kuchárka" 
+            -c style.css
+            main.tex
