@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "name": { "type": "string" },
+    "photo": {
+      "type": "object",
+      "properties": {
+        "path": { "type": "string" },
+        "height": { "type": "string" }
+      },
+      "required": [ "path", "height" ]
+    },
+    "portions": { "type": [ "integer", "string" ] },
+    "ingredients": {
+      "type": "object",
+      "properties": {
+        "main": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "other": {
+          "type": "object",
+          "patternProperties": {
+            ".*": { "type": "array", "items": { "type": "string" } }
+          }
+        }
+      },
+      "required": [
+        "main"
+      ]
+    },
+    "preparation": {
+      "type": "array",
+      "items": { "type": ["string", "object"] }
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "name",
+    "portions",
+    "ingredients",
+    "preparation"
+  ]
+}
+
