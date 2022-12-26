@@ -1,0 +1,21 @@
+name: Džadky
+photo:
+  path: images/dzadky
+  height: 5.5cm
+portions: '4'
+ingredients:
+  main:
+  - 1kg zemiaky
+  - 350g hrubá múka
+  - 2KL soľ
+  - slanina
+  other: {}
+preparation:
+- Očistiť zemiaky, dať variť aby boli tesne zakryté vodou
+- Zamiaky popučiť vo vode
+- Pridať múku
+- Nechať postáť, aby múka v horúcich zemiakoch napučala
+- Vyvaľkať džadky
+- Popražiť na panvici
+- Posypať opraženou slaninkou
+notes: ''

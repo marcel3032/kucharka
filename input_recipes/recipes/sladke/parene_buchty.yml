@@ -1,0 +1,20 @@
+name: Buchty na pare
+photo:
+  path: images/buchty_na_pare
+  height: 5.5cm
+portions: '4'
+ingredients:
+  main:
+  - 700g polohrubá múka
+  - 1ks droždie
+  - 400ml mlieko
+  - 30g kryštálový cukor
+  - štipka soľ
+  - plnka (nutela, džem)
+  other: {}
+preparation:
+- Z teplého mlieka, droždia, cukru, kúsku múky a štipky soli urobíme kvások
+- Vypracujeme hladké cesto, necháme 45 minút vykysnúť
+- Vyvaľkáme na 1cm a urobíme buchty
+- Paríme asi 10 minút
+notes: ''

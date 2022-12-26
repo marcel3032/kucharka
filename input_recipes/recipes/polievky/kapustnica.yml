@@ -1,0 +1,20 @@
+name: Kapustnica
+photo:
+  path: images/kapustnica
+  height: 5.5cm
+portions: '4'
+ingredients:
+  main:
+  - zemiaky
+  - klobása
+  - kyslá kapusta
+  - sušené hríby
+  - červená paprika
+  - zápraš/žka
+  other: {}
+preparation:
+- Pokrajáné zemiaky variť s polovicou klobás, hubami a okoreniť, osoliť
+- Po uvarení zemiakov pridať kapustu
+- Urobíme zápraš/žku s klobásou a paprikou
+- Zmiešame dokopy, a prevrieme
+notes: ''

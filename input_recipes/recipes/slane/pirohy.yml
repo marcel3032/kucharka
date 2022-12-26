@@ -1,0 +1,19 @@
+name: Pirohy
+portions: '4'
+ingredients:
+  main:
+  - 500g zemiaky
+  - 500g múka hladká/polohrubá
+  - 1 vajce
+  - 1 ČL soľ
+  - 125g bryndza
+  - 70g maslo
+  - 200ml voda
+  - pažítka
+  other: {}
+preparation:
+- Uvaríme a pretlačíme zemiaky
+- Z múky, lyžice zemiakov, vajec vymiešame cesto
+- Zemiaky zmiešame s bryndzou, pažítkou, maslom, soľou
+- Naplníme, varíme kým nevyplávajú
+notes: ''

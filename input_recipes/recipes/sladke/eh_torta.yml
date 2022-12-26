@@ -1,0 +1,31 @@
+name: Pudingová torta
+photo:
+  path: images/eh_torta
+  height: 5.5cm
+portions: '4'
+ingredients:
+  main:
+  - ''
+  other:
+    Piškótové cesto:
+    - 200g kryštálový cukor
+    - 1dl voda
+    - 4ks vajce
+    - 1dl olej (???)
+    - 200g hladká múka
+    - 1ks vanilkový cukor
+    - 1ks prášok do pečiva
+    Pudingy:
+    - 500ml mlieka
+    - puding
+    - 2PL cukru
+preparation:
+- Urobíme piškótové cesto:
+  - Žĺtka vymiešame s cukrami do peny
+  - Pridáme olej a vodu a premiešame
+  - Pridáme múku s práškom do pečiva
+  - Pridáme sneh z bielok
+  - Pečieme 20 minút na 180°C
+- Urobíme puding a vykydneme na piškót
+- Pred podávaním necháme vychladiť v chladničke
+notes: ''

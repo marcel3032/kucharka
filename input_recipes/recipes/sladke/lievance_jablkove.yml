@@ -1,0 +1,18 @@
+name: Jablkové lievance
+photo:
+  path: images/lievance
+  height: 5.5cm
+portions: '3'
+ingredients:
+  main:
+  - 300g jablka
+  - 1 vajce
+  - 300g hladká múka
+  - 300ml mlieko
+  - 1 vanilkový cukor
+  - 1 prášok do pečiva
+  other: {}
+preparation:
+- Všetko zmiešame dokopy
+- Robíme lievance na panvici.
+notes: ''

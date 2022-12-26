@@ -1,0 +1,22 @@
+name: Listkove cesto
+photo:
+  path: images/listkove_cesto
+  height: 5.5cm
+portions: '4'
+ingredients:
+  main:
+  - chladené lístkové cesto
+  other:
+    Inšpirácia na plnku:
+    - nuttela
+    - paradajkový pretlak, šunka, syr, pizza korenie
+    - puding
+    - jablko
+    - mak
+    - tvaroh
+preparation:
+- Cesto necháme chvíľočku ohriať
+- Robíme croisanty, pizzové rolky, pudingové taštičky, jablkové taštičky, mak, jablko,
+  tvaroh, hocičo
+- Pečieme zhruba 15 minút na 200
+notes: ''

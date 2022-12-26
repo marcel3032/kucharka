@@ -1,0 +1,16 @@
+name: Palacinky
+photo:
+  path: images/palacinky
+  height: 5.5cm
+portions: '1'
+ingredients:
+  main:
+  - 1 vajce
+  - 100g hladkej múky
+  - 100ml mlieko
+  - 1/4 vanilkového cukru, štipka soli
+  other: {}
+preparation:
+- Všetky zmiešame dokopy
+- Opekáme na panvici
+notes: ''

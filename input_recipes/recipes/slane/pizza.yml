@@ -1,0 +1,32 @@
+name: Pizza
+portions: '4'
+ingredients:
+  main:
+  - šunka
+  - syr
+  - paradajkový pretlak
+  - pizza korenie, oregáno
+  - cibuľa
+  - vajíčko (potom ale pečieme pomalšie)
+  other:
+    Cesto:
+    - 1 cà.c de test1
+    - 1 à 2 cà.S de test2
+    - 3 gouttes de test3
+    - 8 morceaux de test4.
+    Syrová omáčka:
+    - niva/rival
+    - syr v črievku
+    - smotana na varenie/na šľahanie
+    - nastrúhaný syr
+preparation:
+- Urobíme cesto:
+  - Blabla
+  - Blabla
+  - Blabla
+- Na cesto dáme veci, podľa chuti
+- Syrová pizza:
+  - Postrúhame tvrdý syr
+  - zmiešame so smotanou, plesnivým syrom, syrom v črievku
+  - Natrieme na pizzu
+notes: ''

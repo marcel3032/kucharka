@@ -1,0 +1,25 @@
+name: Donuty
+photo:
+  path: images/donuty
+  height: 5.5cm
+portions: '4'
+ingredients:
+  main:
+  - štvrť maslo (65g)
+  - 2 PL kryštálový cukor
+  - vanilková aróma
+  - 1 vajce
+  - 2 hrnčeky polohrubá múka
+  other:
+    Kvások:
+    - 1 hrnček teplé mlieko
+    - polovica droždie
+    - trošku cukor
+preparation:
+- Vyrobíme kvások a necháme 30 minút kysnúť
+- Zmiešame zvyšné ingrediencie s kváskom
+- Vyvaľkáme na 1,5cm a povykrajujeme donuty
+- Rozohrejeme olej s ČL masla
+- Opražíme tak 10s z jednej a 10s z druhej strany
+- Podľa ľubovôle poleva z čokolády
+notes: ''

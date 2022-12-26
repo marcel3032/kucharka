@@ -1,0 +1,33 @@
+name: IKEA torta
+photo:
+  path: images/daim
+  height: 5.5cm
+portions: '4'
+ingredients:
+  main:
+  - ''
+  other:
+    Korpus:
+    - 4 bielka
+    - 150g kryštálový cukor
+    - 150g mandle + 30g vlašské orechy
+    Posyp:
+    - DAIM čokoláda / krokant
+    - 125g čokoláda
+    - 50ml smotana/mlieko
+    Krokant:
+    - 50g kryštálový cukor
+    - 20g orechy
+    - 1ČL maslo + 30ml voda
+preparation:
+- Pripravíme korpus:
+  - bielka zmiešame s cukrom a vyšľaháme sneh
+  - pridáme orechy a len rukou domiešame aby sneh nespadol
+  - Dáme do vymúčenej formy a necháme piecť 35 minút na 175°
+- Popri pečení pripravíme plnku:
+  - Žĺtka a salko miešame nad parou
+  - Pridáme cukor a múku
+  - Po vychladnutí primiešame maslo
+- Po upečení korpus rozrežeme a po vychladnutí naplníme plnkou
+- Na vrch dáme plnku a polejeme čokoládou zmiešanou s krokantom
+notes: ''

@@ -1,0 +1,24 @@
+name: Cestoviny
+photo:
+  path: images/cestoviny
+  height: 5.5cm
+portions: '4'
+ingredients:
+  main:
+  - cestoviny, 100g na človeka
+  other:
+    Omáčka:
+    - rival/niva
+    - karička/bambino
+    - smotana
+    - olivy
+    - sušené paradajky
+    - špenát
+    - kuracie mäso
+    - cibuľka
+    - cesnak
+preparation:
+- Uvaríme cestoviny
+- Na cibuľke popražíme paradajky a mäso
+- Zalejeme smotanou, pridáme syry, špenát, olivy
+notes: ''
