@@ -1,0 +1,51 @@
+\babel@toc {slovak}{}\relax 
+\contentsline {section}{\numberline {1}Predjedlá}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1} Cesnaková nátierka }{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2} Vajíčková nátierka }{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3} Tapenarde }{6}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Sladké jedlá}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1} Brownies }{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2} Cheesecake so slaným karamelom }{9}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3} IKEA torta }{10}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4} Donuty }{11}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5} Marshmallow fondán }{12}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6} Fake kekse ku káve }{13}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7} Palacinky }{14}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8} Veterníky }{15}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9} Wafľe }{16}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10} Pudingová torta }{17}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.11} Buchty na pare }{18}{subsection.2.11}%
+\contentsline {subsection}{\numberline {2.12} Piškótové cesto }{19}{subsection.2.12}%
+\contentsline {subsection}{\numberline {2.13} Salko krém na tortu }{20}{subsection.2.13}%
+\contentsline {subsection}{\numberline {2.14} Listkove cesto }{21}{subsection.2.14}%
+\contentsline {subsection}{\numberline {2.15} Dukátové buchtičky }{22}{subsection.2.15}%
+\contentsline {subsection}{\numberline {2.16} Šľahačková torta }{23}{subsection.2.16}%
+\contentsline {subsection}{\numberline {2.17} Medové rezy }{24}{subsection.2.17}%
+\contentsline {subsection}{\numberline {2.18} Jablkové lievance }{25}{subsection.2.18}%
+\contentsline {subsection}{\numberline {2.19} Makrónky }{26}{subsection.2.19}%
+\contentsline {section}{\numberline {3}Slané jedlá}{27}{section.3}%
+\contentsline {subsection}{\numberline {3.1} Džadky }{28}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2} Lokše }{29}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3} Obrátené rezne }{30}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4} Pirohy }{31}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5} Pizza }{32}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6} Lasagne s brokolicou }{33}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7} Cestoviny }{34}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8} Mäso s bylinkovým maslom }{35}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9} Syrová omáčka k mäsu }{36}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10} Varená kukurica }{37}{subsection.3.10}%
+\contentsline {subsection}{\numberline {3.11} Naan }{38}{subsection.3.11}%
+\contentsline {subsection}{\numberline {3.12} Dhal }{39}{subsection.3.12}%
+\contentsline {subsection}{\numberline {3.13} Cestoviny }{40}{subsection.3.13}%
+\contentsline {section}{\numberline {4}Polievky}{41}{section.4}%
+\contentsline {subsection}{\numberline {4.1} Basic polievka }{42}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2} Kapustnica }{43}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3} Hrášková krémová }{44}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4} Fazuľová polievka }{45}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5} Brokolicová polievka }{46}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6} Hubová krémová }{47}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7} Hokaido krémová }{48}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8} Syrová polievka }{49}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9} Paradajková polievka }{50}{subsection.4.9}%
+\contentsline {section}{\numberline {5}Template}{51}{section.5}%
+\contentsline {subsection}{\numberline {5.1} Florentins au chocolat }{52}{subsection.5.1}%
