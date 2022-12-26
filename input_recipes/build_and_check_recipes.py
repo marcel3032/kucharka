@@ -5,15 +5,24 @@ import jsonschema
 import json
 
 recipes_dir = 'recipes'
-out_dir = '..'+os.sep+'output_recipes'
+out_dir = '..'+os.sep+'built_recipes'
 tex_filname_extension = '.tex'
 
 environment = jinja2.Environment(loader = jinja2.FileSystemLoader('./'))
 
 template = environment.get_template("00_template.tex")
 
+# create build directory
+if not os.path.exists(out_dir+os.sep):
+    os.makedirs(out_dir+os.sep)
+
 for dir in list(os.listdir(recipes_dir)):
   print(f"dir {repr(dir)}:")
+  
+  # create output directories
+  if not os.path.exists(out_dir+os.sep+dir+os.sep):
+    os.makedirs(out_dir+os.sep+dir+os.sep)
+  
   for recipe in os.listdir(recipes_dir+os.sep+dir):
     print(f"  recipe {repr(recipe)}")
     recipe_filename = recipes_dir+os.sep+dir+os.sep+recipe

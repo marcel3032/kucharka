@@ -12,3 +12,5 @@ main.out
 main.toc
 texput.log
 .log
+built_recipes/*
+build/*
