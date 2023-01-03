@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.1)  26 DEC 2022 15:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.1)  3 JAN 2023 12:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
-LaTeX2e <2022-11-01>
-L3 programming layer <2022-11-02>
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2022-12-17>
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/size12.clo
@@ -19,8 +19,8 @@ File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count190
 \c@figure=\count191
 \c@table=\count192
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
 (./reglages/reglage.tex
@@ -61,9 +61,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip49
+\multirow@colwidth=\skip50
 \multirow@cntb=\count193
-\multirow@dima=\skip50
+\multirow@dima=\skip51
 \bigstrutjot=\dimen141
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/tools/afterpage.sty
@@ -85,7 +85,7 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip51
+\OuterFrameSep=\skip52
 \fb@frw=\dimen142
 \fb@frh=\dimen143
 \FrameRule=\dimen144
@@ -108,8 +108,8 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \page@free=\dimen148
 \premulticols=\dimen149
 \postmulticols=\dimen150
-\multicolsep=\skip52
-\multicolbaselineskip=\skip53
+\multicolsep=\skip53
+\multicolbaselineskip=\skip54
 \partial@page=\box56
 \last@line=\box57
 \maxbalancingoverflow=\dimen151
@@ -166,7 +166,7 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 (/opt/texlive/texdir/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \enitkv@toks@=\toks19
-\labelindent=\skip54
+\labelindent=\skip55
 \enit@outerparindent=\dimen155
 \enit@toks=\toks20
 \enit@inbox=\box100
@@ -191,8 +191,8 @@ File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 (/opt/texlive/texdir/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box101
-\beforetitleunit=\skip55
-\aftertitleunit=\skip56
+\beforetitleunit=\skip56
+\aftertitleunit=\skip57
 \ttl@plus=\dimen156
 \ttl@minus=\dimen157
 \ttl@toksa=\toks21
@@ -207,7 +207,7 @@ Package: gensymb 2022/10/17 v1.0.2 (KJH)
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
-\@mathmargin=\skip57
+\@mathmargin=\skip58
 
 For additional information on amsmath, use the `?' option.
 (/opt/texlive/texdir/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -267,8 +267,8 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \totwidth@=\dimen168
 \lineht@=\dimen169
 \@envbody=\toks25
-\multlinegap=\skip58
-\multlinetaggap=\skip59
+\multlinegap=\skip59
+\multlinetaggap=\skip60
 \mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
@@ -624,12 +624,12 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \ar@mcellbox=\box115
 \extrarowheight=\dimen280
 \NC@list=\toks42
-\extratabsurround=\skip60
-\backup@length=\skip61
+\extratabsurround=\skip61
+\backup@length=\skip62
 \ar@cellbox=\box116
 )
 \everycr=\toks43
-\minrowclearance=\skip62
+\minrowclearance=\skip63
 \rownum=\count306
 )
 \c@step=\count307
@@ -677,7 +677,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ))
 (/opt/texlive/texdir/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/10/23 3.82 The Babel package
+Package: babel 2022/12/26 3.84 The Babel package
 \babel@savecnt=\count311
 \U@D=\dimen287
 \l@unhyphenated=\language87
@@ -720,15 +720,15 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (/opt/texlive/texdir/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip63
-\f@nch@O@elh=\skip64
-\f@nch@O@erh=\skip65
-\f@nch@O@olh=\skip66
-\f@nch@O@orh=\skip67
-\f@nch@O@elf=\skip68
-\f@nch@O@erf=\skip69
-\f@nch@O@olf=\skip70
-\f@nch@O@orf=\skip71
+\f@nch@headwidth=\skip64
+\f@nch@O@elh=\skip65
+\f@nch@O@erh=\skip66
+\f@nch@O@olh=\skip67
+\f@nch@O@orh=\skip68
+\f@nch@O@elf=\skip69
+\f@nch@O@erf=\skip70
+\f@nch@O@olf=\skip71
+\f@nch@O@orf=\skip72
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
@@ -867,7 +867,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip72
+\Hy@SectionHShift=\skip73
 )) (./reglages/reglage_s2.tex)
 Package hyperref Info: Option `colorlinks' set `true' on input line 11.
 
@@ -1570,23 +1570,23 @@ Package rerunfilecheck Info: File `./build/main.out' has not changed.
 (rerunfilecheck)             Checksum: 64E73D0AE4EAA7F74A575A07022EE982;7143.
  ) 
 Here is how much of TeX's memory you used:
- 25373 strings out of 474971
- 476876 string characters out of 5778125
- 826238 words of memory out of 5000000
- 45902 multiletter control sequences out of 15000+600000
- 520953 words of font info for 63 fonts, out of 8000000 for 9000
+ 25371 strings out of 476093
+ 476844 string characters out of 5793588
+ 1880793 words of memory out of 5000000
+ 44777 multiletter control sequences out of 15000+600000
+ 563981 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 105i,12n,107p,503b,582s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 105i,12n,107p,503b,586s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/opt/texlive/te
 xdir/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</opt/texlive/texdir/texmf-dis
 t/fonts/type1/public/lm/lmbx12.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/
 public/lm/lmr10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/lm/lmr12
 .pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/lm/lmri12.pfb></opt/tex
 live/texdir/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on ./build/main.pdf (52 pages, 1381633 bytes).
+Output written on ./build/main.pdf (52 pages, 1381508 bytes).
 PDF statistics:
- 849 PDF objects out of 1000 (max. 8388607)
- 761 compressed objects within 8 object streams
- 349 named destinations out of 1000 (max. 500000)
+ 850 PDF objects out of 1000 (max. 8388607)
+ 762 compressed objects within 8 object streams
+ 350 named destinations out of 1000 (max. 500000)
  493 words of extra memory for PDF output out of 10000 (max. 10000000)
 
