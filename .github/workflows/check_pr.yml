@@ -7,7 +7,7 @@ permissions:
 
 jobs:
   gh-pages:
-    name: Deploy to Github pages
+    name: Build .pdf and .html and NOT push it. Just for PR check.
     runs-on: ubuntu-latest
 
     steps:
