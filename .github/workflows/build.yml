@@ -55,6 +55,11 @@ jobs:
       - name: Copy style.css to build folder
         run: |
           sudo cp style.css build/style.css
+          
+      - name: Copy images.css to build folder
+        run: |
+          sudo mkdir build/images
+          sudo cp images/* build/images/.
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
