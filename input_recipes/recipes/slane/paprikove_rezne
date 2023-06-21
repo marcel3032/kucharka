@@ -1,0 +1,19 @@
+name: Paprikové rezne
+photo:
+  path: images/dzadky
+  height: 5.5cm
+portions: '1'
+ingredients:
+  main:
+  - hladká múka
+  - mletá sladká paprika
+  - mäso
+  - mlieko
+  - soľ, korenie, vegeta
+  - olej
+  other: {}
+preparation:
+- Mäso narežeme a naklepeme, necháme cez noc v mlieku s koreninami
+- Zmiešame múku s paprikou
+- Mäso obaľujeme v múke a smažíme
+notes: ''
