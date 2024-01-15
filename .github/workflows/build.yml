@@ -41,7 +41,7 @@ jobs:
             latexmk -pdf -jobname=./build/main main.tex
           
       - name: Build main.html
-        uses: docker://pandoc/core:2.9
+        uses: docker://pandoc/core:2.12
         with:
           args: >-  # allows you to break string into multiple lines
             -s 
