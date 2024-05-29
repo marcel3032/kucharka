@@ -1,0 +1,30 @@
+name: Cupcakes
+photo:
+  path: images/cupcakes
+  height: 5.5cm
+portions: '15'
+ingredients:
+  main:
+  - 100g kryštálový cukor
+  - 2ČL prášok do pečiva
+  - 2 vajíčka
+  - 170ml mlieko
+  - 125g maslo
+  - 220g polohrubá múka
+  other:
+    Plnka:
+    - 1 mascarpone
+    - 1 smotana na šľahanie
+    - 1 vanilkový cukor
+    - 3PL kryštálový cukor
+    - granko
+preparation:
+- Cesto:
+  - Vymiešame cukor s maslom
+  - Pridáme vajíčka
+  - Pridáme múku a prášok do pečiva
+  - Rozdelíme do košíčkov
+  - Pečieme 20-25 minút na 180°
+- Krém:
+  - v miske zmiešame šľahačku a mascarpone, osladíme, pridáme granko
+notes: ''
