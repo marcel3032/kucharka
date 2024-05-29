@@ -1,24 +1,24 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.1)  23 FEB 2024 15:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.15)  29 MAY 2024 07:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
+L3 programming layer <2024-03-14>
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count187
-\c@section=\count188
-\c@subsection=\count189
-\c@subsubsection=\count190
-\c@paragraph=\count191
-\c@subparagraph=\count192
-\c@figure=\count193
-\c@table=\count194
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
@@ -62,7 +62,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (/opt/texlive/texdir/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip50
-\multirow@cntb=\count195
+\multirow@cntb=\count196
 \multirow@dima=\skip51
 \bigstrutjot=\dimen141
 )
@@ -74,7 +74,7 @@ Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count196
+\c@float@type=\count197
 \float@exts=\toks18
 \float@box=\box53
 \@float@everytoks=\toks19
@@ -96,14 +96,14 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
-\c@tracingmulticols=\count197
+\c@tracingmulticols=\count198
 \mult@box=\box55
 \multicol@leftmargin=\dimen146
-\c@unbalance=\count198
-\c@collectmore=\count199
-\doublecol@number=\count266
-\multicoltolerance=\count267
-\multicolpretolerance=\count268
+\c@unbalance=\count199
+\c@collectmore=\count266
+\doublecol@number=\count267
+\multicoltolerance=\count268
+\multicolpretolerance=\count269
 \full@width=\dimen147
 \page@free=\dimen148
 \premulticols=\dimen149
@@ -154,15 +154,15 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \@tempa=\box96
 \@tempa=\box97
 \@tempa=\box98
-\c@minrows=\count269
-\c@columnbadness=\count270
-\c@finalcolumnbadness=\count271
+\c@minrows=\count270
+\c@columnbadness=\count271
+\c@finalcolumnbadness=\count272
 \last@try=\dimen152
 \multicolovershoot=\dimen153
 \multicolundershoot=\dimen154
 \mult@nat@firstbox=\box99
 \colbreak@box=\box100
-\mc@col@check@num=\count272
+\mc@col@check@num=\count273
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
@@ -171,8 +171,8 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@outerparindent=\dimen155
 \enit@toks=\toks21
 \enit@inbox=\box101
-\enit@count@id=\count273
-\enitdp@description=\count274
+\enit@count@id=\count274
+\enitdp@description=\count275
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
@@ -226,14 +226,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (/opt/texlive/texdir/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count275
+\inf@bad=\count276
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count276
-\leftroot@=\count277
+\uproot@=\count277
+\leftroot@=\count278
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count278
-\DOTSCASE@=\count279
+\classnum@=\count279
+\DOTSCASE@=\count280
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -246,20 +246,20 @@ LaTeX Info: Redefining \Bigg on input line 725.
 \big@size=\dimen163
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count280
+\macc@depth=\count281
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count281
+\c@MaxMatrixCols=\count282
 \dotsspace@=\muskip16
-\c@parentequation=\count282
-\dspbrk@lvl=\count283
+\c@parentequation=\count283
+\dspbrk@lvl=\count284
 \tag@help=\toks24
-\row@=\count284
-\column@=\count285
-\maxfields@=\count286
+\row@=\count285
+\column@=\count286
+\maxfields@=\count287
 \andhelp@=\toks25
 \eqnshift@=\dimen164
 \alignsep@=\dimen165
@@ -340,14 +340,14 @@ d.code.tex
 \pgf@yd=\dimen183
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count287
-\c@pgf@countb=\count288
-\c@pgf@countc=\count289
-\c@pgf@countd=\count290
+\c@pgf@counta=\count288
+\c@pgf@countb=\count289
+\c@pgf@countc=\count290
+\c@pgf@countd=\count291
 \t@pgf@toka=\toks33
 \t@pgf@tokb=\toks34
 \t@pgf@tokc=\toks35
-\pgf@sys@id@count=\count291
+\pgf@sys@id@count=\count292
 
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
@@ -364,8 +364,8 @@ File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code
 .tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count292
-\pgfsyssoftpath@bigbuffer@items=\count293
+\pgfsyssoftpath@smallbuffer@items=\count293
+\pgfsyssoftpath@bigbuffer@items=\count294
 )
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code
 .tex
@@ -396,7 +396,7 @@ Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen184
-\pgfmath@count=\count294
+\pgfmath@count=\count295
 \pgfmath@box=\box106
 \pgfmath@toks=\toks36
 \pgfmath@stack@operand=\toks37
@@ -422,7 +422,7 @@ e.tex)
 ithmetics.code.tex)
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count295
+\c@pgfmathroundto@lastzeros=\count296
 ))
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.t
@@ -461,7 +461,7 @@ File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box107
 \pgf@hbox=\box108
 \pgf@layerbox@main=\box109
-\pgf@picture@serial@count=\count296
+\pgf@picture@serial@count=\count297
 )
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.
 code.tex
@@ -496,8 +496,8 @@ File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 x
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen264
-\pgf@sys@shading@range@num=\count297
-\pgf@shadingcount=\count298
+\pgf@sys@shading@range@num=\count298
+\pgf@shadingcount=\count299
 )
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.te
 x
@@ -559,7 +559,7 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandler
 s.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count299
+\pgf@plot@mark@count=\count300
 \pgfplotmarksize=\dimen269
 )
 \tikz@lastx=\dimen270
@@ -574,19 +574,19 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@figbox@bg=\box113
 \tikz@tempbox=\box114
 \tikz@tempbox@bg=\box115
-\tikztreelevel=\count300
-\tikznumberofchildren=\count301
-\tikznumberofcurrentchild=\count302
-\tikz@fig@count=\count303
+\tikztreelevel=\count301
+\tikznumberofchildren=\count302
+\tikznumberofcurrentchild=\count303
+\tikz@fig@count=\count304
 
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.te
 x
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count304
-\pgfmatrixcurrentcolumn=\count305
-\pgf@matrix@numberofcolumns=\count306
+\pgfmatrixcurrentrow=\count305
+\pgfmatrixcurrentcolumn=\count306
+\pgf@matrix@numberofcolumns=\count307
 )
-\tikz@expandcount=\count307
+\tikz@expandcount=\count308
 
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
 kzlibrarytopaths.code.tex
@@ -615,7 +615,7 @@ File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \arrowsize=\dimen278
 )) (/opt/texlive/texdir/texmf-dist/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+Package: colortbl 2024/02/20 v1.0g Color table columns (DPC)
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/tools/array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
@@ -629,10 +629,10 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 )
 \everycr=\toks44
 \minrowclearance=\skip63
-\rownum=\count308
+\rownum=\count309
 )
-\c@step=\count309
-\c@substep=\count310
+\c@step=\count310
+\c@substep=\count311
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
@@ -641,13 +641,13 @@ Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
 \TX@old@col=\dimen283
 \TX@target=\dimen284
 \TX@delta=\dimen285
-\TX@cols=\count311
+\TX@cols=\count312
 \TX@ftn=\toks45
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen286
-\c@nlinenum=\count312
+\c@nlinenum=\count313
 \TeXr@lab=\toks46
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/wasysym/wasysym.sty
@@ -676,21 +676,21 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ))
 (/opt/texlive/texdir/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2024/01/07 v24.1 The Babel package
-\babel@savecnt=\count313
+Package: babel 2024/02/07 v24.2 The Babel package
+\babel@savecnt=\count314
 \U@D=\dimen287
 \l@unhyphenated=\language89
 
 (/opt/texlive/texdir/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read4
-\bbl@dirlevel=\count314
+\bbl@dirlevel=\count315
 
 (/opt/texlive/texdir/texmf-dist/tex/generic/babel-slovak/slovak.ldf
 Language: slovak 2008/07/06 v3.1a Slovak support from the babel system
 Package babel Info: Making ^ an active character on input line 123.
 Package babel Info: Making " an active character on input line 126.
 Package babel Info: Making ' an active character on input line 129.
-\cs@wordlen=\count315
+\cs@wordlen=\count316
 Package babel Info: Making - an active character on input line 294.
 ))
 (/opt/texlive/texdir/texmf-dist/tex/generic/babel/locale/sk/babel-slovak.tex
@@ -703,9 +703,9 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (/opt/texlive/texdir/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count316
-\Gm@cntv=\count317
-\c@Gm@tempcnt=\count318
+\Gm@cnth=\count317
+\Gm@cntv=\count318
+\c@Gm@tempcnt=\count319
 \Gm@bindingoffset=\dimen288
 \Gm@wd@mp=\dimen289
 \Gm@odd@mp=\dimen290
@@ -773,15 +773,15 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (/opt/texlive/texdir/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count319
+\c@section@level=\count320
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count320
+\etb@tempcnta=\count321
 )
 \@linkdim=\dimen296
-\Hy@linkcounter=\count321
-\Hy@pagecounter=\count322
+\Hy@linkcounter=\count322
+\Hy@pagecounter=\count323
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
@@ -791,7 +791,7 @@ Now handling font encoding PD1 ...
 (/opt/texlive/texdir/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count323
+\Hy@SavedSpaceFactor=\count324
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
@@ -807,7 +807,7 @@ Package hyperref Info: Plain pages OFF on input line 4194.
 Package hyperref Info: Backreferencing OFF on input line 4199.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4446.
-\c@Hy@tempcnt=\count324
+\c@Hy@tempcnt=\count325
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
@@ -823,7 +823,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count325
+\Fld@menulength=\count326
 \Field@Width=\dimen298
 \Fld@charsize=\dimen299
 Package hyperref Info: Hyper figures OFF on input line 6063.
@@ -838,9 +838,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6093.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count326
-\c@Item=\count327
-\c@Hfootnote=\count328
+\Hy@abspage=\count327
+\c@Item=\count328
+\c@Hfootnote=\count329
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -852,8 +852,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count329
-\c@bookmark@seq@number=\count330
+\Fld@listcount=\count330
+\c@bookmark@seq@number=\count331
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
@@ -869,8 +869,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package hyperref Info: Option `colorlinks' set `true' on input line 11.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count331
+File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count332
 \l__pdf_internal_box=\box118
 )
 (./build/main.aux)
@@ -908,16 +908,16 @@ Package gensymb Warning: Not defining \micro.
 
 (/opt/texlive/texdir/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count332
+\scratchcounter=\count333
 \scratchdimen=\dimen300
 \scratchbox=\box119
-\nofMPsegments=\count333
-\nofMParguments=\count334
+\nofMPsegments=\count334
+\nofMParguments=\count335
 \everyMPshowfont=\toks50
-\MPscratchCnt=\count335
+\MPscratchCnt=\count336
 \MPscratchDim=\dimen301
-\MPnumerator=\count336
-\makeMPintoPDFobject=\count337
+\MPnumerator=\count337
+\makeMPintoPDFobject=\count338
 \everyMPtoPDFconversion=\toks51
 ) (/opt/texlive/texdir/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1092,8 +1092,26 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [9
 
-]) (./built_recipes/sladke/daim.tex
-<images/daim.jpg, id=326, 263.48438pt x 263.48438pt>
+]) (./built_recipes/sladke/cupcakes.tex
+<images/cupcakes.jpg, id=331, 456.20438pt x 373.395pt>
+File: images/cupcakes.jpg Graphic file (type jpg)
+<use images/cupcakes.jpg>
+Package pdftex.def Info: images/cupcakes.jpg  used on input line 7.
+(pdftex.def)             Requested size: 191.19382pt x 156.49014pt.
+
+Overfull \hbox (30.73831pt too wide) in paragraph at lines 7--8
+[][] 
+ []
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 4.35004pt, for example:
+(fancyhdr)                \setlength{\footskip}{4.35004pt}.
+
+[10
+
+ <./images/cupcakes.jpg>]) (./built_recipes/sladke/daim.tex
+<images/daim.jpg, id=344, 263.48438pt x 263.48438pt>
 File: images/daim.jpg Graphic file (type jpg)
 <use images/daim.jpg>
 Package pdftex.def Info: images/daim.jpg  used on input line 7.
@@ -1104,10 +1122,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[10
+[11
 
  <./images/daim.jpg>]) (./built_recipes/sladke/donuts.tex
-<images/donuty.jpg, id=341, 263.48438pt x 263.48438pt>
+<images/donuty.jpg, id=359, 263.48438pt x 263.48438pt>
 File: images/donuty.jpg Graphic file (type jpg)
 <use images/donuty.jpg>
 Package pdftex.def Info: images/donuty.jpg  used on input line 7.
@@ -1118,10 +1136,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[11
+[12
 
  <./images/donuty.jpg>]) (./built_recipes/sladke/fondan.tex
-<images/pistkot_krem_salko.jpg, id=352, 264.99pt x 368.87813pt>
+<images/pistkot_krem_salko.jpg, id=370, 264.99pt x 368.87813pt>
 File: images/pistkot_krem_salko.jpg Graphic file (type jpg)
 <use images/pistkot_krem_salko.jpg>
 Package pdftex.def Info: images/pistkot_krem_salko.jpg  used on input line 7.
@@ -1132,7 +1150,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[12
+[13
 
  <./images/pistkot_krem_salko.jpg>])
 (./built_recipes/sladke/kavove_kekse.tex
@@ -1141,10 +1159,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[13
+[14
 
 ]) (./built_recipes/sladke/palacinky.tex
-<images/palacinky.jpg, id=372, 263.48438pt x 263.48438pt>
+<images/palacinky.jpg, id=390, 263.48438pt x 263.48438pt>
 File: images/palacinky.jpg Graphic file (type jpg)
 <use images/palacinky.jpg>
 Package pdftex.def Info: images/palacinky.jpg  used on input line 7.
@@ -1155,10 +1173,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[14
+[15
 
  <./images/palacinky.jpg>]) (./built_recipes/sladke/veterniky.tex
-<images/veterniky.jpg, id=379, 263.48438pt x 263.48438pt>
+<images/veterniky.jpg, id=397, 263.48438pt x 263.48438pt>
 File: images/veterniky.jpg Graphic file (type jpg)
 <use images/veterniky.jpg>
 Package pdftex.def Info: images/veterniky.jpg  used on input line 7.
@@ -1169,7 +1187,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[15
+[16
 
  <./images/veterniky.jpg>]) (./built_recipes/sladke/wafle.tex
 
@@ -1177,10 +1195,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[16
+[17
 
 ]) (./built_recipes/sladke/eh_torta.tex
-<images/eh_torta.jpg, id=407, 263.48438pt x 263.48438pt>
+<images/eh_torta.jpg, id=425, 263.48438pt x 263.48438pt>
 File: images/eh_torta.jpg Graphic file (type jpg)
 <use images/eh_torta.jpg>
 Package pdftex.def Info: images/eh_torta.jpg  used on input line 7.
@@ -1191,10 +1209,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[17
+[18
 
  <./images/eh_torta.jpg>]) (./built_recipes/sladke/parene_buchty.tex
-<images/buchty_na_pare.jpg, id=420, 263.48438pt x 263.48438pt>
+<images/buchty_na_pare.jpg, id=439, 263.48438pt x 263.48438pt>
 File: images/buchty_na_pare.jpg Graphic file (type jpg)
 <use images/buchty_na_pare.jpg>
 Package pdftex.def Info: images/buchty_na_pare.jpg  used on input line 7.
@@ -1205,7 +1223,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[18
+[19
 
  <./images/buchty_na_pare.jpg>]) (./built_recipes/sladke/piskot.tex
 File: images/pistkot_krem_salko.jpg Graphic file (type jpg)
@@ -1218,7 +1236,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[19
+[20
 
 ]) (./built_recipes/sladke/salko_krem.tex
 File: images/pistkot_krem_salko.jpg Graphic file (type jpg)
@@ -1231,10 +1249,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[20
+[21
 
 ]) (./built_recipes/sladke/listkove_cesto.tex
-<images/listkove_cesto.jpg, id=444, 263.48438pt x 264.23718pt>
+<images/listkove_cesto.jpg, id=462, 263.48438pt x 264.23718pt>
 File: images/listkove_cesto.jpg Graphic file (type jpg)
 <use images/listkove_cesto.jpg>
 Package pdftex.def Info: images/listkove_cesto.jpg  used on input line 7.
@@ -1249,11 +1267,11 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[21
+[22
 
  <./images/listkove_cesto.jpg>])
 (./built_recipes/sladke/dukatove_buchticky.tex
-<images/dukatky.jpg, id=452, 263.48438pt x 263.48438pt>
+<images/dukatky.jpg, id=470, 263.48438pt x 263.48438pt>
 File: images/dukatky.jpg Graphic file (type jpg)
 <use images/dukatky.jpg>
 Package pdftex.def Info: images/dukatky.jpg  used on input line 7.
@@ -1264,7 +1282,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[22
+[23
 
  <./images/dukatky.jpg>]) (./built_recipes/sladke/slahackova.tex
 
@@ -1272,10 +1290,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[23
+[24
 
 ]) (./built_recipes/sladke/medove_rezy.tex
-<images/medove_rezy.jpg, id=466, 263.48438pt x 263.48438pt>
+<images/medove_rezy.jpg, id=484, 263.48438pt x 263.48438pt>
 File: images/medove_rezy.jpg Graphic file (type jpg)
 <use images/medove_rezy.jpg>
 Package pdftex.def Info: images/medove_rezy.jpg  used on input line 7.
@@ -1290,10 +1308,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[24
+[25
 
  <./images/medove_rezy.jpg>]) (./built_recipes/sladke/lievance_jablkove.tex
-<images/lievance.jpg, id=487, 263.48438pt x 263.48438pt>
+<images/lievance.jpg, id=506, 263.48438pt x 263.48438pt>
 File: images/lievance.jpg Graphic file (type jpg)
 <use images/lievance.jpg>
 Package pdftex.def Info: images/lievance.jpg  used on input line 7.
@@ -1304,10 +1322,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[25
+[26
 
  <./images/lievance.jpg>]) (./built_recipes/sladke/makronky.tex
-<images/makronky.jpg, id=495, 1234.6125pt x 1189.44376pt>
+<images/makronky.jpg, id=513, 1234.6125pt x 1189.44376pt>
 File: images/makronky.jpg Graphic file (type jpg)
 <use images/makronky.jpg>
 Package pdftex.def Info: images/makronky.jpg  used on input line 7.
@@ -1322,10 +1340,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[26
+[27
 
  <./images/makronky.jpg>]) (./built_recipes/sladke/sisky_pudingove.tex
-<images/sisky-plnene.jpg, id=511, 1043.9pt x 1027.84pt>
+<images/sisky-plnene.jpg, id=529, 1043.9pt x 1027.84pt>
 File: images/sisky-plnene.jpg Graphic file (type jpg)
 <use images/sisky-plnene.jpg>
 Package pdftex.def Info: images/sisky-plnene.jpg  used on input line 7.
@@ -1336,7 +1354,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[27
+[28
 
  <./images/sisky-plnene.jpg>])
 
@@ -1344,10 +1362,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[28
+[29
 
 ] (./built_recipes/slane/dzadky.tex
-<images/dzadky.jpg, id=534, 263.48438pt x 263.48438pt>
+<images/dzadky.jpg, id=553, 263.48438pt x 263.48438pt>
 File: images/dzadky.jpg Graphic file (type jpg)
 <use images/dzadky.jpg>
 Package pdftex.def Info: images/dzadky.jpg  used on input line 7.
@@ -1358,7 +1376,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[29
+[30
 
  <./images/dzadky.jpg>]) (./built_recipes/slane/lokse.tex
 
@@ -1366,7 +1384,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[30
+[31
 
 ]) (./built_recipes/slane/obratene_rezne.tex
 
@@ -1374,7 +1392,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[31
+[32
 
 ]) (./built_recipes/slane/pirohy.tex
 
@@ -1382,7 +1400,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[32
+[33
 
 ]) (./built_recipes/slane/pizza.tex
 Underfull \hbox (badness 1448) in paragraph at lines 16--17
@@ -1394,7 +1412,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[33
+[34
 
 ]) (./built_recipes/slane/lasagne.tex
 
@@ -1402,10 +1420,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[34
+[35
 
 ]) (./built_recipes/slane/cestoviny.tex
-<images/cestoviny.jpg, id=608, 263.48438pt x 263.48438pt>
+<images/cestoviny.jpg, id=626, 263.48438pt x 263.48438pt>
 File: images/cestoviny.jpg Graphic file (type jpg)
 <use images/cestoviny.jpg>
 Package pdftex.def Info: images/cestoviny.jpg  used on input line 7.
@@ -1416,7 +1434,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[35
+[36
 
  <./images/cestoviny.jpg>]) (./built_recipes/slane/maso_bylinkove_maslo.tex
 
@@ -1424,7 +1442,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[36
+[37
 
 ]) (./built_recipes/slane/maso_ubo.tex
 
@@ -1432,7 +1450,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[37
+[38
 
 ]) (./built_recipes/slane/kukurica.tex
 
@@ -1440,7 +1458,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[38
+[39
 
 ]) (./built_recipes/slane/naan.tex
 
@@ -1448,7 +1466,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[39
+[40
 
 ]) (./built_recipes/slane/dhal.tex
 
@@ -1456,10 +1474,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[40
+[41
 
 ]) (./built_recipes/slane/tekvicove_rizoto.tex
-<images/florentin.jpg, id=660, 368.87813pt x 244.66406pt>
+<images/florentin.jpg, id=678, 368.87813pt x 244.66406pt>
 File: images/florentin.jpg Graphic file (type jpg)
 <use images/florentin.jpg>
 Package pdftex.def Info: images/florentin.jpg  used on input line 7.
@@ -1474,7 +1492,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[41
+[42
 
  <./images/florentin.jpg>])
 
@@ -1482,7 +1500,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[42
+[43
 
 ] (./built_recipes/polievky/basic_polievka.tex
 
@@ -1490,10 +1508,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[43
+[44
 
 ]) (./built_recipes/polievky/kapustnica.tex
-<images/kapustnica.jpg, id=689, 351.3125pt x 351.3125pt>
+<images/kapustnica.jpg, id=707, 351.3125pt x 351.3125pt>
 File: images/kapustnica.jpg Graphic file (type jpg)
 <use images/kapustnica.jpg>
 Package pdftex.def Info: images/kapustnica.jpg  used on input line 7.
@@ -1504,7 +1522,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[44
+[45
 
  <./images/kapustnica.jpg>]) (./built_recipes/polievky/hraskova.tex
 
@@ -1512,7 +1530,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[45
+[46
 
 ]) (./built_recipes/polievky/fazulova.tex
 
@@ -1520,7 +1538,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[46
+[47
 
 ]) (./built_recipes/polievky/brokolicova.tex
 
@@ -1528,7 +1546,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[47
+[48
 
 ]) (./built_recipes/polievky/hubova.tex
 
@@ -1536,7 +1554,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[48
+[49
 
 ]) (./built_recipes/polievky/hokaido.tex
 
@@ -1544,7 +1562,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[49
+[50
 
 ]) (./built_recipes/polievky/syrova.tex
 
@@ -1552,7 +1570,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[50
+[51
 
 ]) (./built_recipes/polievky/paradajkova.tex
 
@@ -1560,7 +1578,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[51
+[52
 
 ])
 
@@ -1568,7 +1586,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[52
+[53
 
 ] (./built_recipes/template/00_template.tex
 
@@ -1576,33 +1594,33 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[53
+[54
 
 ]) (./build/main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
+L3 programming layer <2024-03-14>
  ***********
 Package rerunfilecheck Info: File `./build/main.out' has not changed.
-(rerunfilecheck)             Checksum: DF355780C47201B0DB78BF1C345C1E18;7404.
+(rerunfilecheck)             Checksum: 40E52F998C782923A0E1C66E2709D26D;7519.
  ) 
 Here is how much of TeX's memory you used:
- 25716 strings out of 474222
- 480967 string characters out of 5748193
- 1954975 words of memory out of 5000000
- 46997 multiletter control sequences out of 15000+600000
+ 25742 strings out of 474104
+ 481543 string characters out of 5745485
+ 1957493 words of memory out of 5000000
+ 47128 multiletter control sequences out of 15000+600000
  609763 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 107i,11n,110p,515b,575s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 107i,12n,110p,515b,593s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></opt/texliv
 e/texdir/texmf-dist/fonts/type1/public/lm/lmr10.pfb></opt/texlive/texdir/texmf-
 dist/fonts/type1/public/lm/lmr12.pfb></opt/texlive/texdir/texmf-dist/fonts/type
 1/public/lm/lmri12.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/lm/lm
 sy8.pfb>
-Output written on ./build/main.pdf (53 pages, 1611621 bytes).
+Output written on ./build/main.pdf (54 pages, 1745151 bytes).
 PDF statistics:
- 877 PDF objects out of 1000 (max. 8388607)
- 787 compressed objects within 8 object streams
- 366 named destinations out of 1000 (max. 500000)
- 506 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 898 PDF objects out of 1000 (max. 8388607)
+ 805 compressed objects within 9 object streams
+ 376 named destinations out of 1000 (max. 500000)
+ 519 words of extra memory for PDF output out of 10000 (max. 10000000)
 
