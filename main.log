@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.1)  11 NOV 2024 12:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.1)  11 NOV 2024 12:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1146,8 +1146,8 @@ File: images/donuty.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/donuty.jpg  used on input line 7.
 (pdftex.def)             Requested size: 156.49571pt x 156.49014pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
-[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-
+Underfull \hbox (badness 3965) in paragraph at lines 10--11
+[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-stvo:
  []
 
 
@@ -1176,8 +1176,8 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
  <./images/pistkot_krem_salko.jpg>])
 (./built_recipes/sladke/kavove_kekse.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-
+Underfull \hbox (badness 3965) in paragraph at lines 8--9
+[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-stvo:
  []
 
 
@@ -1211,8 +1211,8 @@ File: images/veterniky.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/veterniky.jpg  used on input line 7.
 (pdftex.def)             Requested size: 156.49571pt x 156.49014pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
-[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-
+Underfull \hbox (badness 3965) in paragraph at lines 10--11
+[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-stvo:
  []
 
 
@@ -1255,8 +1255,8 @@ File: images/buchty_na_pare.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/buchty_na_pare.jpg  used on input line 7.
 (pdftex.def)             Requested size: 156.49571pt x 156.49014pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
-[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-
+Underfull \hbox (badness 3965) in paragraph at lines 10--11
+[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-stvo:
  []
 
 
@@ -1348,8 +1348,8 @@ File: images/medove_rezy.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/medove_rezy.jpg  used on input line 7.
 (pdftex.def)             Requested size: 156.49571pt x 156.49014pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
-[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-
+Underfull \hbox (badness 3965) in paragraph at lines 10--11
+[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-stvo:
  []
 
 
@@ -1408,8 +1408,8 @@ File: images/sisky-plnene.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/sisky-plnene.jpg  used on input line 7.
 (pdftex.def)             Requested size: 158.93567pt x 156.49014pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
-[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-
+Underfull \hbox (badness 3965) in paragraph at lines 10--11
+[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-stvo:
  []
 
 
@@ -1446,8 +1446,8 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [30
 
  <./images/dzadky.jpg>]) (./built_recipes/slane/lokse.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-
+Underfull \hbox (badness 3965) in paragraph at lines 8--9
+[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-stvo:
  []
 
 
@@ -1492,8 +1492,8 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [34
 
 ]) (./built_recipes/slane/lasagne.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-
+Underfull \hbox (badness 3965) in paragraph at lines 8--9
+[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-stvo:
  []
 
 
@@ -1521,8 +1521,8 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [36
 
  <./images/cestoviny.jpg>]) (./built_recipes/slane/maso_bylinkove_maslo.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-
+Underfull \hbox (badness 3965) in paragraph at lines 8--9
+[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-stvo:
  []
 
 
@@ -1535,8 +1535,8 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [37
 
 ]) (./built_recipes/slane/maso_ubo.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-
+Underfull \hbox (badness 3965) in paragraph at lines 8--9
+[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-stvo:
  []
 
 
@@ -1549,8 +1549,8 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [38
 
 ]) (./built_recipes/slane/kukurica.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-
+Underfull \hbox (badness 3965) in paragraph at lines 8--9
+[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-stvo:
  []
 
 
@@ -1572,8 +1572,8 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [40
 
 ]) (./built_recipes/slane/dhal.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-
+Underfull \hbox (badness 3965) in paragraph at lines 8--9
+[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-stvo:
  []
 
 
@@ -1597,8 +1597,8 @@ Overfull \hbox (75.48495pt too wide) in paragraph at lines 7--8
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
-[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-
+Underfull \hbox (badness 3965) in paragraph at lines 10--11
+[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-stvo:
  []
 
 
@@ -1716,8 +1716,8 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [53
 
 ] (./built_recipes/template/00_template.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--9
-[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-
+Underfull \hbox (badness 3965) in paragraph at lines 8--9
+[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-stvo:
  []
 
 
@@ -1750,7 +1750,7 @@ e/texdir/texmf-dist/fonts/type1/public/lm/lmr10.pfb></opt/texlive/texdir/texmf-
 dist/fonts/type1/public/lm/lmr12.pfb></opt/texlive/texdir/texmf-dist/fonts/type
 1/public/lm/lmri12.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/lm/lm
 sy8.pfb>
-Output written on ./build/main.pdf (54 pages, 1746807 bytes).
+Output written on ./build/main.pdf (54 pages, 1746781 bytes).
 PDF statistics:
  898 PDF objects out of 1000 (max. 8388607)
  805 compressed objects within 9 object streams
