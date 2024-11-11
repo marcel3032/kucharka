@@ -2,7 +2,7 @@ name: Jablkové lievance
 photo:
   path: images/lievance
   height: 5.5cm
-portions: '3'
+portions: '3 porcie'
 ingredients:
   main:
   - 300g jablka

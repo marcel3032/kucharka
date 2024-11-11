@@ -2,7 +2,7 @@ name: Palacinky
 photo:
   path: images/palacinky
   height: 5.5cm
-portions: '1'
+portions: '1 porcia'
 ingredients:
   main:
   - 1 vajce

@@ -2,7 +2,7 @@ name: Cestoviny
 photo:
   path: images/cestoviny
   height: 5.5cm
-portions: '4'
+portions: '1 porcia'
 ingredients:
   main:
   - cestoviny, 100g na človeka
