@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.1)  11 NOV 2024 12:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.1)  22 NOV 2024 12:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1105,7 +1105,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [9
 
 ]) (./built_recipes/sladke/cupcakes.tex
-<images/cupcakes.jpg, id=331, 456.20438pt x 373.395pt>
+<images/cupcakes.jpg, id=336, 456.20438pt x 373.395pt>
 File: images/cupcakes.jpg Graphic file (type jpg)
 <use images/cupcakes.jpg>
 Package pdftex.def Info: images/cupcakes.jpg  used on input line 7.
@@ -1125,7 +1125,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [10
 
  <./images/cupcakes.jpg>]) (./built_recipes/sladke/daim.tex
-<images/daim.jpg, id=344, 263.48438pt x 263.48438pt>
+<images/daim.jpg, id=349, 263.48438pt x 263.48438pt>
 File: images/daim.jpg Graphic file (type jpg)
 <use images/daim.jpg>
 Package pdftex.def Info: images/daim.jpg  used on input line 7.
@@ -1140,7 +1140,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [11
 
  <./images/daim.jpg>]) (./built_recipes/sladke/donuts.tex
-<images/donuty.jpg, id=359, 263.48438pt x 263.48438pt>
+<images/donuty.jpg, id=364, 263.48438pt x 263.48438pt>
 File: images/donuty.jpg Graphic file (type jpg)
 <use images/donuty.jpg>
 Package pdftex.def Info: images/donuty.jpg  used on input line 7.
@@ -1160,7 +1160,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [12
 
  <./images/donuty.jpg>]) (./built_recipes/sladke/fondan.tex
-<images/pistkot_krem_salko.jpg, id=370, 264.99pt x 368.87813pt>
+<images/pistkot_krem_salko.jpg, id=375, 264.99pt x 368.87813pt>
 File: images/pistkot_krem_salko.jpg Graphic file (type jpg)
 <use images/pistkot_krem_salko.jpg>
 Package pdftex.def Info: images/pistkot_krem_salko.jpg  used on input line 7.
@@ -1190,7 +1190,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [14
 
 ]) (./built_recipes/sladke/palacinky.tex
-<images/palacinky.jpg, id=390, 263.48438pt x 263.48438pt>
+<images/palacinky.jpg, id=395, 263.48438pt x 263.48438pt>
 File: images/palacinky.jpg Graphic file (type jpg)
 <use images/palacinky.jpg>
 Package pdftex.def Info: images/palacinky.jpg  used on input line 7.
@@ -1205,7 +1205,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [15
 
  <./images/palacinky.jpg>]) (./built_recipes/sladke/veterniky.tex
-<images/veterniky.jpg, id=397, 263.48438pt x 263.48438pt>
+<images/veterniky.jpg, id=402, 263.48438pt x 263.48438pt>
 File: images/veterniky.jpg Graphic file (type jpg)
 <use images/veterniky.jpg>
 Package pdftex.def Info: images/veterniky.jpg  used on input line 7.
@@ -1234,7 +1234,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [17
 
 ]) (./built_recipes/sladke/eh_torta.tex
-<images/eh_torta.jpg, id=425, 263.48438pt x 263.48438pt>
+<images/eh_torta.jpg, id=431, 263.48438pt x 263.48438pt>
 File: images/eh_torta.jpg Graphic file (type jpg)
 <use images/eh_torta.jpg>
 Package pdftex.def Info: images/eh_torta.jpg  used on input line 7.
@@ -1249,7 +1249,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [18
 
  <./images/eh_torta.jpg>]) (./built_recipes/sladke/parene_buchty.tex
-<images/buchty_na_pare.jpg, id=439, 263.48438pt x 263.48438pt>
+<images/buchty_na_pare.jpg, id=444, 263.48438pt x 263.48438pt>
 File: images/buchty_na_pare.jpg Graphic file (type jpg)
 <use images/buchty_na_pare.jpg>
 Package pdftex.def Info: images/buchty_na_pare.jpg  used on input line 7.
@@ -1297,7 +1297,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [21
 
 ]) (./built_recipes/sladke/listkove_cesto.tex
-<images/listkove_cesto.jpg, id=462, 263.48438pt x 264.23718pt>
+<images/listkove_cesto.jpg, id=467, 263.48438pt x 264.23718pt>
 File: images/listkove_cesto.jpg Graphic file (type jpg)
 <use images/listkove_cesto.jpg>
 Package pdftex.def Info: images/listkove_cesto.jpg  used on input line 7.
@@ -1318,7 +1318,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
  <./images/listkove_cesto.jpg>])
 (./built_recipes/sladke/dukatove_buchticky.tex
-<images/dukatky.jpg, id=470, 263.48438pt x 263.48438pt>
+<images/dukatky.jpg, id=475, 263.48438pt x 263.48438pt>
 File: images/dukatky.jpg Graphic file (type jpg)
 <use images/dukatky.jpg>
 Package pdftex.def Info: images/dukatky.jpg  used on input line 7.
@@ -1342,7 +1342,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [24
 
 ]) (./built_recipes/sladke/medove_rezy.tex
-<images/medove_rezy.jpg, id=484, 263.48438pt x 263.48438pt>
+<images/medove_rezy.jpg, id=489, 263.48438pt x 263.48438pt>
 File: images/medove_rezy.jpg Graphic file (type jpg)
 <use images/medove_rezy.jpg>
 Package pdftex.def Info: images/medove_rezy.jpg  used on input line 7.
@@ -1367,7 +1367,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [25
 
  <./images/medove_rezy.jpg>]) (./built_recipes/sladke/lievance_jablkove.tex
-<images/lievance.jpg, id=506, 263.48438pt x 263.48438pt>
+<images/lievance.jpg, id=511, 263.48438pt x 263.48438pt>
 File: images/lievance.jpg Graphic file (type jpg)
 <use images/lievance.jpg>
 Package pdftex.def Info: images/lievance.jpg  used on input line 7.
@@ -1382,7 +1382,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [26
 
  <./images/lievance.jpg>]) (./built_recipes/sladke/makronky.tex
-<images/makronky.jpg, id=513, 1234.6125pt x 1189.44376pt>
+<images/makronky.jpg, id=518, 1234.6125pt x 1189.44376pt>
 File: images/makronky.jpg Graphic file (type jpg)
 <use images/makronky.jpg>
 Package pdftex.def Info: images/makronky.jpg  used on input line 7.
@@ -1402,7 +1402,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [27
 
  <./images/makronky.jpg>]) (./built_recipes/sladke/sisky_pudingove.tex
-<images/sisky-plnene.jpg, id=529, 1043.9pt x 1027.84pt>
+<images/sisky-plnene.jpg, id=534, 1043.9pt x 1027.84pt>
 File: images/sisky-plnene.jpg Graphic file (type jpg)
 <use images/sisky-plnene.jpg>
 Package pdftex.def Info: images/sisky-plnene.jpg  used on input line 7.
@@ -1431,7 +1431,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [29
 
 ] (./built_recipes/slane/dzadky.tex
-<images/dzadky.jpg, id=553, 263.48438pt x 263.48438pt>
+<images/dzadky.jpg, id=558, 263.48438pt x 263.48438pt>
 File: images/dzadky.jpg Graphic file (type jpg)
 <use images/dzadky.jpg>
 Package pdftex.def Info: images/dzadky.jpg  used on input line 7.
@@ -1506,7 +1506,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [35
 
 ]) (./built_recipes/slane/cestoviny.tex
-<images/cestoviny.jpg, id=626, 263.48438pt x 263.48438pt>
+<images/cestoviny.jpg, id=631, 263.48438pt x 263.48438pt>
 File: images/cestoviny.jpg Graphic file (type jpg)
 <use images/cestoviny.jpg>
 Package pdftex.def Info: images/cestoviny.jpg  used on input line 7.
@@ -1548,6 +1548,15 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [38
 
+]) (./built_recipes/slane/sweet_chilli_kuracie_nugetky.tex
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 4.35004pt, for example:
+(fancyhdr)                \setlength{\footskip}{4.35004pt}.
+
+[39
+
 ]) (./built_recipes/slane/kukurica.tex
 Underfull \hbox (badness 3965) in paragraph at lines 8--9
 [] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-stvo:
@@ -1560,7 +1569,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[39
+[40
 
 ]) (./built_recipes/slane/naan.tex
 
@@ -1569,7 +1578,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[40
+[41
 
 ]) (./built_recipes/slane/dhal.tex
 Underfull \hbox (badness 3965) in paragraph at lines 8--9
@@ -1583,10 +1592,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[41
+[42
 
 ]) (./built_recipes/slane/tekvicove_rizoto.tex
-<images/florentin.jpg, id=678, 368.87813pt x 244.66406pt>
+<images/florentin.jpg, id=691, 368.87813pt x 244.66406pt>
 File: images/florentin.jpg Graphic file (type jpg)
 <use images/florentin.jpg>
 Package pdftex.def Info: images/florentin.jpg  used on input line 7.
@@ -1608,7 +1617,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[42
+[43
 
  <./images/florentin.jpg>])
 
@@ -1617,7 +1626,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[43
+[44
 
 ] (./built_recipes/polievky/basic_polievka.tex
 
@@ -1626,10 +1635,10 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[44
+[45
 
 ]) (./built_recipes/polievky/kapustnica.tex
-<images/kapustnica.jpg, id=707, 351.3125pt x 351.3125pt>
+<images/kapustnica.jpg, id=720, 351.3125pt x 351.3125pt>
 File: images/kapustnica.jpg Graphic file (type jpg)
 <use images/kapustnica.jpg>
 Package pdftex.def Info: images/kapustnica.jpg  used on input line 7.
@@ -1641,7 +1650,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[45
+[46
 
  <./images/kapustnica.jpg>]) (./built_recipes/polievky/hraskova.tex
 
@@ -1650,7 +1659,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[46
+[47
 
 ]) (./built_recipes/polievky/fazulova.tex
 
@@ -1659,7 +1668,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[47
+[48
 
 ]) (./built_recipes/polievky/brokolicova.tex
 
@@ -1668,7 +1677,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[48
+[49
 
 ]) (./built_recipes/polievky/hubova.tex
 
@@ -1677,7 +1686,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[49
+[50
 
 ]) (./built_recipes/polievky/hokaido.tex
 
@@ -1686,7 +1695,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[50
+[51
 
 ]) (./built_recipes/polievky/syrova.tex
 
@@ -1695,7 +1704,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[51
+[52
 
 ]) (./built_recipes/polievky/paradajkova.tex
 
@@ -1704,7 +1713,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[52
+[53
 
 ])
 
@@ -1713,7 +1722,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[53
+[54
 
 ] (./built_recipes/template/00_template.tex
 Underfull \hbox (badness 3965) in paragraph at lines 8--9
@@ -1727,7 +1736,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.35004pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.35004pt}.
 
-[54
+[55
 
 ]) (./build/main.aux)
  ***********
@@ -1735,13 +1744,13 @@ LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-10-09>
  ***********
 Package rerunfilecheck Info: File `./build/main.out' has not changed.
-(rerunfilecheck)             Checksum: 3A768C2D5C777CF3E7ECF6F5FD32DA7C;7560.
+(rerunfilecheck)             Checksum: BAA21ED31500C8BF1F19BE5D92369882;7784.
  ) 
 Here is how much of TeX's memory you used:
- 25890 strings out of 473577
- 484109 string characters out of 5730208
+ 25909 strings out of 473577
+ 484666 string characters out of 5730208
  881833 words of memory out of 5000000
- 47803 multiletter control sequences out of 15000+600000
+ 47813 multiletter control sequences out of 15000+600000
  609763 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  107i,12n,110p,515b,595s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1750,10 +1759,10 @@ e/texdir/texmf-dist/fonts/type1/public/lm/lmr10.pfb></opt/texlive/texdir/texmf-
 dist/fonts/type1/public/lm/lmr12.pfb></opt/texlive/texdir/texmf-dist/fonts/type
 1/public/lm/lmri12.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/lm/lm
 sy8.pfb>
-Output written on ./build/main.pdf (54 pages, 1746781 bytes).
+Output written on ./build/main.pdf (55 pages, 1748123 bytes).
 PDF statistics:
- 898 PDF objects out of 1000 (max. 8388607)
- 805 compressed objects within 9 object streams
- 376 named destinations out of 1000 (max. 500000)
- 519 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 913 PDF objects out of 1000 (max. 8388607)
+ 819 compressed objects within 9 object streams
+ 382 named destinations out of 1000 (max. 500000)
+ 527 words of extra memory for PDF output out of 10000 (max. 10000000)
 

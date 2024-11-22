@@ -35,19 +35,20 @@
 \contentsline {subsection}{\numberline {3.7} Cestoviny }{36}{subsection.3.7}%
 \contentsline {subsection}{\numberline {3.8} Mäso s bylinkovým maslom }{37}{subsection.3.8}%
 \contentsline {subsection}{\numberline {3.9} Syrová omáčka k mäsu }{38}{subsection.3.9}%
-\contentsline {subsection}{\numberline {3.10} Varená kukurica }{39}{subsection.3.10}%
-\contentsline {subsection}{\numberline {3.11} Naan }{40}{subsection.3.11}%
-\contentsline {subsection}{\numberline {3.12} Dhal }{41}{subsection.3.12}%
-\contentsline {subsection}{\numberline {3.13} Tekvicové rizoto }{42}{subsection.3.13}%
-\contentsline {section}{\numberline {4}Polievky}{43}{section.4}%
-\contentsline {subsection}{\numberline {4.1} Basic polievka }{44}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2} Kapustnica }{45}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3} Hrášková krémová }{46}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4} Fazuľová polievka }{47}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5} Brokolicová polievka }{48}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6} Hubová krémová }{49}{subsection.4.6}%
-\contentsline {subsection}{\numberline {4.7} Hokaido krémová }{50}{subsection.4.7}%
-\contentsline {subsection}{\numberline {4.8} Syrová polievka }{51}{subsection.4.8}%
-\contentsline {subsection}{\numberline {4.9} Paradajková polievka }{52}{subsection.4.9}%
-\contentsline {section}{\numberline {5}Template}{53}{section.5}%
-\contentsline {subsection}{\numberline {5.1} Florentins au chocolat }{54}{subsection.5.1}%
+\contentsline {subsection}{\numberline {3.10} Sweet chilli kuracie nugetky }{39}{subsection.3.10}%
+\contentsline {subsection}{\numberline {3.11} Varená kukurica }{40}{subsection.3.11}%
+\contentsline {subsection}{\numberline {3.12} Naan }{41}{subsection.3.12}%
+\contentsline {subsection}{\numberline {3.13} Dhal }{42}{subsection.3.13}%
+\contentsline {subsection}{\numberline {3.14} Tekvicové rizoto }{43}{subsection.3.14}%
+\contentsline {section}{\numberline {4}Polievky}{44}{section.4}%
+\contentsline {subsection}{\numberline {4.1} Basic polievka }{45}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2} Kapustnica }{46}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3} Hrášková krémová }{47}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4} Fazuľová polievka }{48}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5} Brokolicová polievka }{49}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6} Hubová krémová }{50}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7} Hokaido krémová }{51}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8} Syrová polievka }{52}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9} Paradajková polievka }{53}{subsection.4.9}%
+\contentsline {section}{\numberline {5}Template}{54}{section.5}%
+\contentsline {subsection}{\numberline {5.1} Florentins au chocolat }{55}{subsection.5.1}%
