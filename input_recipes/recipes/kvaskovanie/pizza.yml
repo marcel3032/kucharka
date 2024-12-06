@@ -1,0 +1,19 @@
+name: Pizza
+portions: '4ks'
+ingredients:
+  main:
+  - 175g hladká múka
+  - kvások
+  - 1,5KL soli
+  - 2PL olej
+  - 1KL cukor
+  other:
+    Rozkvas:
+    - 4PL kvások
+    - 150g múka
+    - 150g voda
+preparation:
+- Nechať naštartovať kvások
+- Všetko zmiešať, nechať cez noc v chladničke
+- pečieme 5-7 minút, 250C
+notes: ''
