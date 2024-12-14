@@ -1,5 +1,5 @@
 name: Pizza
-portions: '2 porcie'
+portions: '4 porcie'
 ingredients:
   main:
   - šunka
@@ -10,10 +10,11 @@ ingredients:
   - vajíčko (potom ale pečieme pomalšie)
   other:
     Cesto:
-    - 1 cà.c de test1
-    - 1 à 2 cà.S de test2
-    - 3 gouttes de test3
-    - 8 morceaux de test4.
+    - 600g hladká múka
+    - 380g voda
+    - 20g olivový olej
+    - 15g soľ
+    - 2g droždie
     Syrová omáčka:
     - niva/rival
     - syr v črievku
@@ -21,9 +22,11 @@ ingredients:
     - nastrúhaný syr
 preparation:
 - Urobíme cesto:
-  - Blabla
-  - Blabla
-  - Blabla
+  - Droždie rozdroliť a zmiešať so všetkým okrem oleja
+  - po 15-30 minútach pridať olej a prehnietiť
+  - nechať nakysnúť 3-4 hodiny, potom dať do chladničky
+  - pred pečením nechať 2-3h vonku
+  - Piecť na 250C, 5-10 minút
 - Na cesto dáme veci, podľa chuti
 - Syrová pizza:
   - Postrúhame tvrdý syr
