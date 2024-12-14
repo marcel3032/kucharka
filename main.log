@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.1)  14 DEC 2024 11:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.1)  14 DEC 2024 11:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1300,6 +1300,11 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [20
 
  <./images/medove_rezy.jpg>]) (./built_recipes/sladke/medovniky.tex
+Underfull \hbox (badness 3965) in paragraph at lines 8--9
+[] \T1/lmr/bx/n/12 In-gre-dien-cie (Mnoº-stvo:
+ []
+
+
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -1902,7 +1907,7 @@ e/texdir/texmf-dist/fonts/type1/public/lm/lmr10.pfb></opt/texlive/texdir/texmf-
 dist/fonts/type1/public/lm/lmr12.pfb></opt/texlive/texdir/texmf-dist/fonts/type
 1/public/lm/lmri12.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/lm/lm
 sy8.pfb>
-Output written on ./build/main.pdf (66 pages, 1761216 bytes).
+Output written on ./build/main.pdf (66 pages, 1761215 bytes).
 PDF statistics:
  1067 PDF objects out of 1200 (max. 8388607)
  961 compressed objects within 10 object streams
