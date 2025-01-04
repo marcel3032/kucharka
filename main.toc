@@ -67,5 +67,6 @@
 \contentsline {subsection}{\numberline {5.7} Pagáče }{68}{subsection.5.7}%
 \contentsline {subsection}{\numberline {5.8} Toastový chlieb }{69}{subsection.5.8}%
 \contentsline {subsection}{\numberline {5.9} Vianočka }{70}{subsection.5.9}%
-\contentsline {section}{\numberline {6}Template}{71}{section.6}%
-\contentsline {subsection}{\numberline {6.1} Florentins au chocolat }{72}{subsection.6.1}%
+\contentsline {subsection}{\numberline {5.10} Škoricový pletenec }{71}{subsection.5.10}%
+\contentsline {section}{\numberline {6}Template}{72}{section.6}%
+\contentsline {subsection}{\numberline {6.1} Florentins au chocolat }{73}{subsection.6.1}%
