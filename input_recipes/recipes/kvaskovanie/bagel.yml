@@ -1,0 +1,21 @@
+name: Bagel
+portions: '7ks'
+ingredients:
+  main:
+  - 300g hladká múka
+  - 200g jogurt
+  - 1 vajce
+  - 10g soli
+  - rozkvas
+  other:
+    Rozkvas:
+    - 2PL kvások
+    - 50g múka
+    - 50g voda
+preparation:
+- urobiť rozkvas
+- všetko zmiešať, nechať podkysnúť
+- urobiť bagle (donuty) a nechať podkysnúť
+- potrieť vajíčkom, posypať sezamom
+- piecť 7 minút, 200C, potom 5 minút 170C
+notes: ''
