@@ -33,43 +33,44 @@
 \contentsline {subsection}{\numberline {3.3} Dhal }{34}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4} Džadky }{35}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5} Granadír }{36}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6} Varená kukurica }{37}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7} Langoše }{38}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8} Lasagne s brokolicou }{39}{subsection.3.8}%
-\contentsline {subsection}{\numberline {3.9} Lokše }{40}{subsection.3.9}%
-\contentsline {subsection}{\numberline {3.10} Mäso s bylinkovým maslom }{41}{subsection.3.10}%
-\contentsline {subsection}{\numberline {3.11} Syrová omáčka k mäsu }{42}{subsection.3.11}%
-\contentsline {subsection}{\numberline {3.12} Naan }{43}{subsection.3.12}%
-\contentsline {subsection}{\numberline {3.13} Obrátené rezne }{44}{subsection.3.13}%
-\contentsline {subsection}{\numberline {3.14} Paprikové rezne }{45}{subsection.3.14}%
-\contentsline {subsection}{\numberline {3.15} Pirohy }{46}{subsection.3.15}%
-\contentsline {subsection}{\numberline {3.16} Pizza }{47}{subsection.3.16}%
-\contentsline {subsection}{\numberline {3.17} Sweet chilli kuracie nugetky }{48}{subsection.3.17}%
-\contentsline {subsection}{\numberline {3.18} Tekvicové rizoto }{49}{subsection.3.18}%
-\contentsline {subsection}{\numberline {3.19} Kura v teriyaki omáčke }{50}{subsection.3.19}%
-\contentsline {section}{\numberline {4}Polievky}{51}{section.4}%
-\contentsline {subsection}{\numberline {4.1} Basic polievka }{52}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2} Kapustnica }{53}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3} Hrášková krémová }{54}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4} Fazuľová polievka }{55}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5} Brokolicová polievka }{56}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6} Hubová krémová }{57}{subsection.4.6}%
-\contentsline {subsection}{\numberline {4.7} Hokaido krémová }{58}{subsection.4.7}%
-\contentsline {subsection}{\numberline {4.8} Batátová krémová }{59}{subsection.4.8}%
-\contentsline {subsection}{\numberline {4.9} Syrová polievka }{60}{subsection.4.9}%
-\contentsline {subsection}{\numberline {4.10} Paradajková polievka }{61}{subsection.4.10}%
-\contentsline {section}{\numberline {5}Kváskovanie}{62}{section.5}%
-\contentsline {subsection}{\numberline {5.1} Bagel }{63}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2} Brioška }{64}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3} Burgrové žemle }{65}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4} Chlieb }{66}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5} Čokoládový chlieb }{67}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6} Kaiserky }{68}{subsection.5.6}%
-\contentsline {subsection}{\numberline {5.7} Kŕmenie kvásku }{69}{subsection.5.7}%
-\contentsline {subsection}{\numberline {5.8} Pizza }{70}{subsection.5.8}%
-\contentsline {subsection}{\numberline {5.9} Pagáče }{71}{subsection.5.9}%
-\contentsline {subsection}{\numberline {5.10} Toastový chlieb }{72}{subsection.5.10}%
-\contentsline {subsection}{\numberline {5.11} Vianočka }{73}{subsection.5.11}%
-\contentsline {subsection}{\numberline {5.12} Škoricový pletenec }{74}{subsection.5.12}%
-\contentsline {section}{\numberline {6}Template}{75}{section.6}%
-\contentsline {subsection}{\numberline {6.1} Florentins au chocolat }{76}{subsection.6.1}%
+\contentsline {subsection}{\numberline {3.6} Halušky }{37}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7} Varená kukurica }{38}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8} Langoše }{39}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9} Lasagne s brokolicou }{40}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10} Lokše }{41}{subsection.3.10}%
+\contentsline {subsection}{\numberline {3.11} Mäso s bylinkovým maslom }{42}{subsection.3.11}%
+\contentsline {subsection}{\numberline {3.12} Syrová omáčka k mäsu }{43}{subsection.3.12}%
+\contentsline {subsection}{\numberline {3.13} Naan }{44}{subsection.3.13}%
+\contentsline {subsection}{\numberline {3.14} Obrátené rezne }{45}{subsection.3.14}%
+\contentsline {subsection}{\numberline {3.15} Paprikové rezne }{46}{subsection.3.15}%
+\contentsline {subsection}{\numberline {3.16} Pirohy }{47}{subsection.3.16}%
+\contentsline {subsection}{\numberline {3.17} Pizza }{48}{subsection.3.17}%
+\contentsline {subsection}{\numberline {3.18} Sweet chilli kuracie nugetky }{49}{subsection.3.18}%
+\contentsline {subsection}{\numberline {3.19} Tekvicové rizoto }{50}{subsection.3.19}%
+\contentsline {subsection}{\numberline {3.20} Kura v teriyaki omáčke }{51}{subsection.3.20}%
+\contentsline {section}{\numberline {4}Polievky}{52}{section.4}%
+\contentsline {subsection}{\numberline {4.1} Basic polievka }{53}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2} Kapustnica }{54}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3} Hrášková krémová }{55}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4} Fazuľová polievka }{56}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5} Brokolicová polievka }{57}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6} Hubová krémová }{58}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7} Hokaido krémová }{59}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8} Batátová krémová }{60}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9} Syrová polievka }{61}{subsection.4.9}%
+\contentsline {subsection}{\numberline {4.10} Paradajková polievka }{62}{subsection.4.10}%
+\contentsline {section}{\numberline {5}Kváskovanie}{63}{section.5}%
+\contentsline {subsection}{\numberline {5.1} Bagel }{64}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2} Brioška }{65}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3} Burgrové žemle }{66}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4} Chlieb }{67}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5} Čokoládový chlieb }{68}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6} Kaiserky }{69}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7} Kŕmenie kvásku }{70}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8} Pizza }{71}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9} Pagáče }{72}{subsection.5.9}%
+\contentsline {subsection}{\numberline {5.10} Toastový chlieb }{73}{subsection.5.10}%
+\contentsline {subsection}{\numberline {5.11} Vianočka }{74}{subsection.5.11}%
+\contentsline {subsection}{\numberline {5.12} Škoricový pletenec }{75}{subsection.5.12}%
+\contentsline {section}{\numberline {6}Template}{76}{section.6}%
+\contentsline {subsection}{\numberline {6.1} Florentins au chocolat }{77}{subsection.6.1}%
