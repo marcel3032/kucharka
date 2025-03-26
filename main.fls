@@ -572,6 +572,11 @@ INPUT ./images/cestoviny.jpg
 INPUT ./images/cestoviny.jpg
 INPUT ./images/cestoviny.jpg
 INPUT ./images/cestoviny.jpg
+INPUT ./built_recipes/slane/chana_masala.tex
+INPUT ./built_recipes/slane/chana_masala.tex
+INPUT ./built_recipes/slane/chana_masala.tex
+INPUT ./built_recipes/slane/chana_masala.tex
+INPUT built_recipes/slane/chana_masala.tex
 INPUT ./built_recipes/slane/dhal.tex
 INPUT ./built_recipes/slane/dhal.tex
 INPUT ./built_recipes/slane/dhal.tex
