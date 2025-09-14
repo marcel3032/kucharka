@@ -47,6 +47,7 @@ jobs:
             -s 
             --toc 
             -t html 
+            --lua-filter=replace-checkbox.lua
             -o build/index.html 
             --metadata title="Kuchárka" 
             -c style.css

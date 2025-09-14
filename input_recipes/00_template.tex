@@ -2,6 +2,8 @@
 
 \subsection{ {{ name }} }
 
+\hyperlink{TOC}{Späť na obsah}
+
 \begin{ingredient}
   {% if photo %}
       \includegraphics[height= {{- photo.height -}} ]{ {{- photo.path -}} }
@@ -11,7 +13,7 @@
 
   \begin{main}
     {%- for ingredient in ingredients.main %}
-      \item {{ ingredient }}
+      \item {x} {{ ingredient }}
     {%- endfor %}
   \end{main}
   {% for name in ingredients.other %}
@@ -19,7 +21,7 @@
 {{- name -}}
 }
       {%- for ingredient in ingredients.other[name] %}
-        \item {{ ingredient }}
+        \item {x} {{ ingredient }}
       {%- endfor %}
     \end{subingredient}
   {% endfor %}
