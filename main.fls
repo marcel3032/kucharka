@@ -510,6 +510,11 @@ INPUT built_recipes/sladke/piskot.tex
 INPUT ./images/pistkot_krem_salko.jpg
 INPUT ./images/pistkot_krem_salko.jpg
 INPUT ./images/pistkot_krem_salko.jpg
+INPUT ./built_recipes/sladke/pribinackovy_krem.tex
+INPUT ./built_recipes/sladke/pribinackovy_krem.tex
+INPUT ./built_recipes/sladke/pribinackovy_krem.tex
+INPUT ./built_recipes/sladke/pribinackovy_krem.tex
+INPUT built_recipes/sladke/pribinackovy_krem.tex
 INPUT ./built_recipes/sladke/salko_krem.tex
 INPUT ./built_recipes/sladke/salko_krem.tex
 INPUT ./built_recipes/sladke/salko_krem.tex
